@@ -1,0 +1,2 @@
+# official
+Official Server Config
